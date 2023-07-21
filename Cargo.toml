@@ -1,0 +1,6 @@
+[package]
+name    = "newsletter"
+version = "0.0.1"
+edition = "2023"
+
+[dependencies]
